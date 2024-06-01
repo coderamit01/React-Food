@@ -3,7 +3,7 @@ import React from 'react';
 const FoodItem = (props) => {
   const {img,title,desc,price} = props.food;
   return (
-    <div className='text-center transition-all p-6 bg-white hover:shadow-lg rounded'>
+    <div className='text-center p-6 bg-white hover:shadow-lg rounded  transition-all'>
       <img className='w-full h-40 md:h-64 object-contain' src={img} alt="" />
       <h2 className='text-2xl font-semibold p'>{title}</h2>
       <p className='text-slate-500'>{desc}</p>
