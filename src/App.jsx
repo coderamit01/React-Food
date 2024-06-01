@@ -1,7 +1,7 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import './App.css'
 import Header from './Components/Header/Header'
-import Hero from './Components/Hero/Hero'
+import Home from './Pages/Home'
 
 function App() {
 
@@ -9,9 +9,10 @@ function App() {
    <>
    <Router>
     <Header />
-      <Routes>
-        <Route path='' element={<Hero />} />
-      </Routes>
+    <Routes>
+      <Route path='/' element={<Home />} />
+      <Route path='/home' element={<Home />} />
+    </Routes>
    </Router>
    </>
   )

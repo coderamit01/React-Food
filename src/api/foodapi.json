@@ -1,0 +1,148 @@
+{
+  "foods": [
+    {
+      "id": "1",
+      "category": "breakfast",
+      "title": "Breakfast 1",
+      "desc": "lorem ipsum dolor site emit",
+      "price": 12,
+      "img": "/src/assets/breakfast/breakfast1.png"
+    },
+    {
+      "id": "2",
+      "category": "breakfast",
+      "title": "Breakfast 2",
+      "desc": "lorem ipsum dolor site emit",
+      "price": 10,
+      "img": "/src/assets/breakfast/breakfast2.png"
+    },
+    {
+      "id": "3",
+      "category": "breakfast",
+      "title": "Breakfast 3",
+      "desc": "lorem ipsum dolor site emit",
+      "price": 13,
+      "img": "/src/assets/breakfast/breakfast3.png"
+    },
+    {
+      "id": "4",
+      "category": "breakfast",
+      "title": "Breakfast 4",
+      "desc": "lorem ipsum dolor site emit",
+      "price": 14,
+      "img": "/src/assets/breakfast/breakfast4.png"
+    },
+    {
+      "id": "5",
+      "category": "breakfast",
+      "title": "Breakfast 5",
+      "desc": "lorem ipsum dolor site emit",
+      "price": 15,
+      "img": "/src/assets/breakfast/breakfast5.png"
+    },
+    {
+      "id": "6",
+      "category": "breakfast",
+      "title": "Breakfast 6",
+      "desc": "lorem ipsum dolor site emit",
+      "price": 8,
+      "img": "/src/assets/breakfast/breakfast6.png"
+    },
+    {
+      "id": "7",
+      "category": "lunch",
+      "title": "Lunch 1",
+      "desc": "lorem ipsum dolor site emit",
+      "price": 12,
+      "img": "/src/assets/lunch/lunch1.png"
+    },
+    {
+      "id": "8",
+      "category": "lunch",
+      "title": "Lunch 2",
+      "desc": "lorem ipsum dolor site emit",
+      "price": 15,
+      "img": "/src/assets/lunch/lunch2.png"
+    },
+    {
+      "id": "9",
+      "category": "lunch",
+      "title": "Lunch 3",
+      "desc": "lorem ipsum dolor site emit",
+      "price": 14,
+      "img": "/src/assets/lunch/lunch3.png"
+    },
+    {
+      "id": "10",
+      "category": "lunch",
+      "title": "Lunch 4",
+      "desc": "lorem ipsum dolor site emit",
+      "price": 10,
+      "img": "/src/assets/lunch/lunch4.png"
+    },
+    {
+      "id": "11",
+      "category": "lunch",
+      "title": "Lunch 5",
+      "desc": "lorem ipsum dolor site emit",
+      "price": 11,
+      "img": "/src/assets/lunch/lunch5.png"
+    },
+    {
+      "id": "12",
+      "category": "lunch",
+      "title": "Lunch 6",
+      "desc": "lorem ipsum dolor site emit",
+      "price": 20,
+      "img": "/src/assets/lunch/lunch6.png"
+    },
+    {
+      "id": "13",
+      "category": "dinner",
+      "title": "Dinner 1",
+      "desc": "lorem ipsum dolor site emit",
+      "price": 20,
+      "img": "/src/assets/dinner/dinner1.png"
+    },
+    {
+      "id": "14",
+      "category": "dinner",
+      "title": "Dinner 2",
+      "desc": "lorem ipsum dolor site emit",
+      "price": 5,
+      "img": "/src/assets/dinner/dinner2.png"
+    },
+    {
+      "id": "15",
+      "category": "dinner",
+      "title": "Dinner 3",
+      "desc": "lorem ipsum dolor site emit",
+      "price": 18,
+      "img": "/src/assets/dinner/dinner3.png"
+    },
+    {
+      "id": "16",
+      "category": "dinner",
+      "title": "Dinner 4",
+      "desc": "lorem ipsum dolor site emit",
+      "price": 11,
+      "img": "/src/assets/dinner/dinner4.png"
+    },
+    {
+      "id": "17",
+      "category": "dinner",
+      "title": "Dinner 5",
+      "desc": "lorem ipsum dolor site emit",
+      "price": 15,
+      "img": "/src/assets/dinner/dinner5.png"
+    },
+    {
+      "id": "17",
+      "category": "dinner",
+      "title": "Dinner 6",
+      "desc": "lorem ipsum dolor site emit",
+      "price": 15,
+      "img": "/src/assets/dinner/dinner6.png"
+    }
+  ]
+ }
