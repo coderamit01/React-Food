@@ -4,7 +4,7 @@ import FoodItem from './FoodItem';
 import { Link } from 'react-router-dom';
 
 const Food = () => {
-  const allfood = '/src/api/foodapi.json';
+  const allfood = '../../../public/api/foodapi.json';
 
   const [foods, setFoods] = useState([]);
   const [category, setCategory] = useState('lunch');
