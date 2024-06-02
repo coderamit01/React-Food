@@ -24,7 +24,7 @@ const FoodDetail = () => {
   return (
     <div className='py-20'>
     {food ? (
-        <div className='container mx-auto'>
+        <div className='container mx-auto px-3'>
           <div className="grid gap-5 grid-cols-1 md:grid-cols-2">
             <div className="p-3">
               <img className='w-full h-3/4 object-contain' src={food.img} alt={food.title} />
